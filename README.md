@@ -2,7 +2,6 @@
 Coursework projects and assignments for WPI graduate course CS5008 (Introduction to Systems and Network Programming)
 
 
-
 CS5008 – Systems Programming Concepts
 
 Focus: C programming, process management, concurrency, and memory systems.
@@ -16,11 +15,9 @@ Family Database (Linked Lists) — developed a linked-list-based record manageme
 Skills: C, pthreads, fork/exec, Makefile, GDB, Memory Management
 
 
-
 You can see PDF for full solutions
-├── hw1-ZongyuMu.pdf
-├── hw2-ZongyuMu.pdf
-├── hw3-ZongyuMu.pdf
+├── lab1-introlab-handin.zip
+├── lab3-memLab-handin-1.zip
 └── README.md
 
 This repository contains my original solutions; problem statements are omitted per course policy.
