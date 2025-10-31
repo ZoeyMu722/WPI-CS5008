@@ -24,7 +24,8 @@ It demonstrates hands-on experience with low-level systems programming, process 
 ┣ 📄 lab1-introlab-handin.zip
 ┣ 📄 lab3-memLab-handin-1.zip
 ┣ 📄 lab4-vitaClab-handin-2
-┣ 📄 lab5-IOLab-handin
+┣ 📄 lab5-IOLab-handin.zip
+┣ 📄 project1_lotto_picks.zip
 ┗ 📄 README.md
 
 Each archive contains project source files, reports, and documentation.  
