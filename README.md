@@ -22,10 +22,15 @@ It demonstrates hands-on experience with low-level systems programming, process 
 ## 📂 Repository Structure
 📦 WPI-CS5008
 ┣ 📄 lab1-introlab-handin.zip
+┣ 📄 lab2-hellolinuxlab-handin.zip
 ┣ 📄 lab3-memLab-handin-1.zip
 ┣ 📄 lab4-vitaClab-handin-2
 ┣ 📄 lab5-IOLab-handin.zip
+┣ 📄 lab6-ByteWaveLab-handin-1.zip
+┣ 📄 lab7-ForkTaleLab-handin.zip
+┣ 📄 lab8-ThreadSpeak-handin.zip 
 ┣ 📄 project1_lotto_picks.zip
+┣ 📄 project.zip 
 ┗ 📄 README.md
 
 Each archive contains project source files, reports, and documentation.  
