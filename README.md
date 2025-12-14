@@ -30,7 +30,8 @@ It demonstrates hands-on experience with low-level systems programming, process 
 ┣ 📄 lab7-ForkTaleLab-handin.zip
 ┣ 📄 lab8-ThreadSpeak-handin.zip 
 ┣ 📄 project1_lotto_picks.zip
-┣ 📄 project.zip 
+┣ 📄 project2.zip 
+┣ 📄 project3.zip 
 ┗ 📄 README.md
 
 Each archive contains project source files, reports, and documentation.  
